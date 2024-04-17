@@ -1,0 +1,16 @@
+{
+  "uuid": "f0323403-de2e-4961-9da8-d976a2083877",
+  "name": "IntegrationTests",
+  "children": [
+    "33f3d9d8-72bb-46d1-80bc-aff01d1d84d0",
+    "98bd5a96-69dd-4eee-8b92-ae1eb61ef357",
+    "0df725de-eddc-4594-829c-bef443fdbd93",
+    "07dd6253-c1cc-40ba-807d-af9a8b4e1c19",
+    "ce35afb2-3956-4651-adbc-a440557bf0c9",
+    "7fd1c4a6-62fb-4baa-b033-abf8c26a1e15"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1713323144615,
+  "stop": 1713323144795
+}

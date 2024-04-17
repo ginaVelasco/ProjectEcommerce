@@ -1,0 +1,24 @@
+{
+  "uuid": "ca773ac3-cda9-4cbf-bfd3-72a267b8f7d2",
+  "name": "com.ecommerce.tests.BaseTest.tearDown",
+  "children": [
+    "b15db97e-ea23-4596-9eb8-b14e07001999"
+  ],
+  "description": "",
+  "befores": [],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1713322410424,
+      "stop": 1713322410425
+    }
+  ],
+  "start": 1713322410424,
+  "stop": 1713322410425
+}

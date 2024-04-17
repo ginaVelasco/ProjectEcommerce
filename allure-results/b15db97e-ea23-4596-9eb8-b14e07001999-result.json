@@ -1,0 +1,61 @@
+{
+  "uuid": "b15db97e-ea23-4596-9eb8-b14e07001999",
+  "historyId": "2fca39f5e08d2a659dc941c905c9fbea",
+  "fullName": "com.ecommerce.tests.LoginTest.loginForgottenPass",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.ecommerce.tests.LoginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.ecommerce.tests.LoginTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginForgottenPass"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "GinaProject"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.ecommerce.tests.LoginTest"
+    },
+    {
+      "name": "host",
+      "value": "Lenovo"
+    },
+    {
+      "name": "thread",
+      "value": "16816@Lenovo.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "loginForgottenPass",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1713322408602,
+  "stop": 1713322410411
+}

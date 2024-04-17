@@ -1,0 +1,13 @@
+{
+  "uuid": "f454aee5-2f7d-4574-87ea-9bcfa5b774a0",
+  "name": "com.ecommerce.tests.RegisterTest",
+  "children": [
+    "d9319a66-10f1-4504-8004-16d7c8668c90",
+    "8d7a9ca3-a328-4eaf-8cb4-dfd4215cf7e8",
+    "015f6693-fad3-4495-90e6-1d630e26fce0"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1713323275080,
+  "stop": 1713323275253
+}

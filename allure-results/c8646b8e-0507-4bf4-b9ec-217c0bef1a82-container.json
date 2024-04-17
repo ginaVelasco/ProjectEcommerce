@@ -1,0 +1,24 @@
+{
+  "uuid": "c8646b8e-0507-4bf4-b9ec-217c0bef1a82",
+  "name": "com.ecommerce.tests.BaseTest.setUp",
+  "children": [
+    "eebc0919-c925-4f16-abf4-320d08ac4017"
+  ],
+  "description": "",
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1713322363422,
+      "stop": 1713322370905
+    }
+  ],
+  "afters": [],
+  "start": 1713322363421,
+  "stop": 1713322370906
+}

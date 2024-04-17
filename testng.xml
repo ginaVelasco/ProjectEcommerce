@@ -1,0 +1,45 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteName">
+    <test name="FunctionalTests">
+        <groups>
+            <run>
+                <include name="Functional"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.ecommerce.tests.LoginTest">
+                <methods>
+                    <include name="successfulLogin"/>
+                </methods>
+            </class>
+            <class name="com.ecommerce.tests.OrderTest"/>
+            <class name="com.ecommerce.tests.RegisterTest"/>
+        </classes>
+    </test>
+
+    <test name="RegressionTests">
+        <groups>
+            <run>
+                <include name="Regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.ecommerce.tests.LoginTest"/>
+            <class name="com.ecommerce.tests.OrderTest"/>
+            <class name="com.ecommerce.tests.RegisterTest"/>
+        </classes>
+    </test>
+
+    <test name="IntegrationTests">
+        <groups>
+            <run>
+                <include name="Integration"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.ecommerce.tests.LoginTest"/>
+            <class name="com.ecommerce.tests.OrderTest"/>
+            <class name="com.ecommerce.tests.RegisterTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+{
+  "uuid": "895f0975-7f16-498e-81da-324404496128",
+  "name": "com.ecommerce.tests.LoginTest",
+  "children": [
+    "8cca9154-bdd8-4e05-a263-0f9aa42ad367",
+    "e881084a-1ab8-48e6-adaf-c5623140089e"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1713324109908,
+  "stop": 1713324110072
+}
