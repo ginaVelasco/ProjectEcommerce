@@ -8,9 +8,7 @@
         </groups>
         <classes>
             <class name="com.ecommerce.tests.LoginTest">
-                <methods>
-                    <include name="successfulLogin"/>
-                </methods>
+
             </class>
             <class name="com.ecommerce.tests.OrderTest"/>
             <class name="com.ecommerce.tests.RegisterTest"/>
